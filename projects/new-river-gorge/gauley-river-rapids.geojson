@@ -1,1 +1,124 @@
-paste info in here
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Initiation",
+        "Video": "https://www.youtube.com/embed/U-yfxJ8IMbg/",
+        "Significance": "The first Class V rapid on the Upper Gauley River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88799953460692,
+          38.20851135822967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pillow Rock",
+        "Video": "https://www.youtube.com/embed/6MzuwenJBSE",
+        "Significance": "Most photographed rapid."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.93486309051514,
+          38.20608337864348
+        ]
+      }
+    },
+    {
+     "type": "Feature",
+      "properties": {
+        "Name": "Geeks and Heroes",
+        "Video": "https://www.youtube.com/embed/xCtwtDNSt3Y",
+        "Significance": "Popular Surfing Wave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.90470091027262,
+          38.20156568272297
+        ]
+      }
+    },
+    {
+     "type": "Feature",
+      "properties": {
+        "Name": "Hungry Mother",
+        "Video": "https://www.youtube.com/embed/T3pd0Waqlmo",
+        "Significance": "Avoid undercut rock on upper right."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9323520688515,
+          38.19864027773642
+        ] 
+      }
+    },
+    {
+     "type": "Feature",
+      "properties": {
+        "Name": "Lost Paddle",
+        "Video": "https://www.youtube.com/embed/RxjFFlfZgGs",
+        "Significance": "3rd of the Class V rapids."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94532183085856,
+          38.19501261525844
+        ] 
+      }
+    },
+    {    
+    "type": "Feature",
+      "properties": {
+        "Name": "Tumblehome",
+        "Video": "https://www.youtube.com/embed/LRrjiwc-qbI",
+        "Significance": "Very technical."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94911734860331,
+          38.19803376449089
+        ] 
+      }
+    },
+    {  
+    "type": "Feature",
+      "properties": {
+        "Name": "Iron Ring",
+        "Video": "https://www.youtube.com/embed/vOncxxrHMEg",
+        "Significance": "Short, steep, big Class V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96591743987304,
+          38.2019330289202
+        ] 
+      }
+    },
+    {   
+    "type": "Feature",
+      "properties": {
+        "Name": "Keegan's Falls",
+        "Video": "https://www.youtube.com/embed/z1y9JrFLnPw",
+        "Significance": "Watch for sneaky little hole called Little Surprise."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96677061304833,
+          38.21044189876703
+        ] 
+      }
+    },
+    { 
